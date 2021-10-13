@@ -1,5 +1,7 @@
-fun main() {
-    print("Happy Birthday!\n")
-    print("Jhansi\n")
-    print("You are 25!")
+public class MyClass {
+
+    public static void main(String[] args)
+    {
+        System.out.println("Hello World!"); 
+    }
 }
