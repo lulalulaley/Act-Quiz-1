@@ -1,0 +1,6 @@
+fun main() {
+    println("Welcome)
+    println("")
+    println("to the \n class")
+}
+
