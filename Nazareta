@@ -1,6 +1,5 @@
 fun main() {
-    println("Welcome)
-    println("")
-    println("to the \n class")
+    print("Happy Birthday!\n")
+    print("Jhansi\n")
+    print("You are 25!")
 }
-
